@@ -4,4 +4,4 @@ Opengl을 사용한 3차원 Gasket구현 glew와 glfw shader를 사용하였습�
 
 면마다의 다른 색상도 구현하였습니다.
 
-
+interface 구현 
