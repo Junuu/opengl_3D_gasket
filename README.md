@@ -29,4 +29,4 @@ Opengl을 사용한 3차원 Gasket구현 glew와 glfw shader를 사용하였습�
 
 
 
-[## 2D gasket ](https://github.com/Junuu/Opengl_Gasket_2D)
+## [2D gasket 코드](https://github.com/Junuu/Opengl_Gasket_2D)
