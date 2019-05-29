@@ -27,3 +27,6 @@ Opengl을 사용한 3차원 Gasket구현 glew와 glfw shader를 사용하였습�
 
      : 정지(default) -> z축 -> x축 -> y축 -> 정지 ->...
 
+
+
+[## 2D gasket ](https://github.com/Junuu/Opengl_Gasket_2D)
